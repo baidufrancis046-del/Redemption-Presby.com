@@ -1,0 +1,138 @@
+.wel{
+    color: blue;
+    font-size: 35px;
+    text-align: center;
+}
+
+.we{
+    color: red;
+    font-size: 18px
+}
+
+.text{
+    position: absolute;
+    top: 35%;
+    color: #ffffff;
+    font-size: 50px;
+    font-weight: bold;
+    stroke: red;
+}
+
+.2text{
+    position: absolute;
+    top: 38%;
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+  }
+
+
+
+  .Mtext{
+    position: absolute;
+    top: 130%;
+    background: linear-gradient(to
+   right, #ff0000, #ff0000);
+    font-weight: bolder;
+    font-size: 25px;
+    }
+
+
+.Rtext{
+    position: absolute;
+    top: 130%;
+    left: 17%;
+    color: #ffffff;
+    font-weight: bolder;
+    font-size: 25px;
+    }
+
+.image{
+    display: flex;
+    height: 500px;
+    width: 100%;
+    stroke: red;
+}
+
+.About{
+    font-size: 27px;
+    text-align: center;
+    color: red;
+}
+
+.abs{
+    font-size: 23px;
+    color: white;
+    position: absolute;
+    left: 1%;
+    top: 62%;
+
+}
+
+.image3{
+    display: flex;
+    height: 300px;
+    width: fit-content;
+    background-color: white;
+    border-radius: 20px;
+    position: absolute;
+    top: 78%;
+    left: 38%;
+}
+
+.na3{
+    color: #ffffff;
+    font-size: 23px;
+    font-weight: bold;
+    position: absolute;
+    top: 75%;
+    left: 80%;
+}
+
+.image4{
+    display: flex;
+    height: 300px;
+    width: 370px;
+    background-color: #f10000;
+    position: absolute;
+    top: 78%;
+    left: 75%;
+    border-radius: 20px;
+}
+
+.image2{
+    display: flex;
+    height: 300px;
+    width: fit-content;
+    background-color: #f10000;
+    position: absolute;
+    top: 78%;
+    left: 2%;
+    border-radius: 20px;
+}
+
+.na{
+    color: white;
+    font-size: 23px;
+    font-weight: bold;
+    position: absolute;
+    top: 75%;
+    left: 10%;
+}
+
+.na2{
+    color: white;
+    font-size: 23px;
+    font-weight: bold;
+    position: absolute;
+    top: 75%;
+    left: 50%;
+}
+
+.bg{
+    display: flex;
+    height: 500px;
+    width: 100%;
+   background: linear-gradient(to
+   right, #48005e, #001068);
+}

@@ -30,7 +30,7 @@
 
   .Mtext{
     position: absolute;
-    top: 130%;
+    top: 120%;
     background: linear-gradient(to
    right, #ff0000, #ff0000);
     font-weight: bolder;
@@ -40,7 +40,7 @@
 
 .Rtext{
     position: absolute;
-    top: 130%;
+    top: 120%;
     left: 17%;
     color: #ffffff;
     font-weight: bolder;
